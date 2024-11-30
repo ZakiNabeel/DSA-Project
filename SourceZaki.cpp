@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include "AVL.h"
 #include "AVL_String.h"
 using namespace std;
 
